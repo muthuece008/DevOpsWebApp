@@ -7,4 +7,4 @@ From tomcat:8-jre8
 
 MAINTAINER "muthukumarece008@gmail.com" 
 
-COPY  /root/.jenkins/workspace/firstpipline/target/*.war /root/tomcat/webapps
+COPY  ./*.war /usr/local/tomcat/webapps
