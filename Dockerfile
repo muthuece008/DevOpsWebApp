@@ -7,4 +7,4 @@ From tomcat:8-jre8
 
 MAINTAINER "muthukumarece008@gmail.com" 
 
-COPY  /root/.jenkins/workspace/FreeStyle1/target/DevOpsWebApp-2.2.war /root/tomcat8/webapps
+COPY  /root/.jenkins/workspace/firstpipeline/target/DevOpsWebApp-2.2.war /root/tomcat8/webapps
