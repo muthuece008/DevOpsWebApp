@@ -7,4 +7,4 @@ From tomcat:8-jre8
 
 MAINTAINER "muthukumarece008@gmail.com" 
 
-COPY  ./DevOpsWebApp-2.2.war /root/tomcat/webapps
+COPY  ./DevOpsWebApp-2.2.war /root/tomcat8/webapps
