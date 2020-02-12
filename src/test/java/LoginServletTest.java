@@ -6,7 +6,7 @@ public class LoginServletTest extends TestCase{
 
 	LoginServlet login = new LoginServlet();
 
-	public LoginServletTest(String name) {
+	public LoginServletTest(String name ) {
 		super(name);
 	}
 	
